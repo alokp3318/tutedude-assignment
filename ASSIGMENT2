@@ -1,0 +1,14 @@
+# take user's first name and last name
+# concatenates the first name and last name into full name
+# print a personalized greetings message using the full name
+
+
+
+A=(input("first name " ))
+B=(input("last name "))
+full_name=( A  +  B )
+print( full_name )
+
+print("hello", full_name ,"welcome to python program")
+
+
