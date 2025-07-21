@@ -1,0 +1,19 @@
+A=int(input("enter value of A: " ))
+B=int(input("enter value of B: "))
+# performing mathematical operation
+# addition
+# substraction
+# multiplication
+# division
+
+
+c=A+B
+e=A-B
+f=A*B
+g=A/B
+print(c)
+print(e)
+print(f)
+print(g)
+
+
